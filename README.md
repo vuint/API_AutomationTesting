@@ -46,5 +46,8 @@ cucumber-js features/ -r steps/ --format json:report/cucumber_report.json
 ```
 
 ## reporter
-npm run report
+```bash
+$npm run report
+```
+
 
