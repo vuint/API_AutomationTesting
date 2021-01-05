@@ -21,7 +21,7 @@
     "@types/cucumber": "^4.0.5",
     "chai": "^4.2.0",
     "@types/node": "^12.12.17",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chai-as-promised": "^7.1.1",
     "cucumber-junit": "^1.7.1",
     "cucumber-pretty": "^1.5.0",
