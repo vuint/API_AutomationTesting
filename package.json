@@ -25,7 +25,7 @@
     "chai-as-promised": "^7.1.1",
     "cucumber-junit": "^1.7.1",
     "cucumber-pretty": "^1.5.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-merge-json": "^1.2.1",
     "yargs": "^8.0.2",
     "ts-node": "^8.0.3",
